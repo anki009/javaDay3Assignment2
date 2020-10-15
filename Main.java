@@ -17,3 +17,14 @@ class Main {
     e1.display();
   }
 }
+/*
+OUTPUT 
+Enter marks of 5 subjects out of 100
+96
+86 
+78
+98
+88
+Percentage: 89.200005 Grade: B
+Name: Ankita Age: 21 Annual Salary: 4L Tax Amount: 15%
+*/
